@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barman Multimedia</string>
+    <string name="nav_subtitle">Broadcasts · Images · Video · Audio</string>
+    <string name="message_label">Message to broadcast</string>
+    <string name="message_hint">Enter your message</string>
+    <string name="nav_broadcast_receiver">Broadcast Receiver</string>
+    <string name="nav_image_scale">Image Scale</string>
+    <string name="nav_video">Video</string>
+    <string name="nav_audio">Audio</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+</resources>

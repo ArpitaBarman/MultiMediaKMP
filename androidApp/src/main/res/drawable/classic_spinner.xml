@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/classic_button" />
+    <item android:width="20dp" android:height="20dp" android:gravity="end|center_vertical" android:end="12dp">
+        <vector android:width="20dp" android:height="20dp" android:viewportWidth="20" android:viewportHeight="20">
+            <path android:fillColor="@color/classic_text_secondary" android:pathData="M4,7 L16,7 L10,13 Z" />
+        </vector>
+    </item>
+</layer-list>

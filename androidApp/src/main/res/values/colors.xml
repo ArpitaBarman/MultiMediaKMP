@@ -1,0 +1,14 @@
+<resources>
+    <color name="classic_background">#E5E5E5</color>
+    <color name="classic_surface">#F5F5F5</color>
+    <color name="classic_primary">#424242</color>
+    <color name="classic_primary_dark">#252525</color>
+    <color name="classic_text">#212121</color>
+    <color name="classic_text_secondary">#555555</color>
+    <color name="classic_border">#9E9E9E</color>
+    <color name="classic_accent">#616161</color>
+    <color name="classic_highlight">#33757575</color>
+    <color name="classic_selected">#CCCCCC</color>
+    <color name="classic_disabled_text">#757575</color>
+    <color name="white">#FFFFFF</color>
+</resources>
